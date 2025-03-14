@@ -2685,7 +2685,7 @@ GameObject:
   - component: {fileID: 2024041319}
   - component: {fileID: 2024041318}
   m_Layer: 0
-  m_Name: Plane (1)
+  m_Name: py
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
